@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiSongs",
+    "\\ApiSongsTests",
+    "\\ApiSongs\\Controllers"
+  ],
+  "SelectedNode": "\\ApiSongs\\Controllers\\ArtistController.cs",
+  "PreviewInSolutionExplorer": false
+}
